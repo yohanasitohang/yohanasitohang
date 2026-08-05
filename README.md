@@ -31,7 +31,6 @@ Information Technology graduate (GPA 3.86/4.00) with hands-on experience in Func
 <!-- - [qa-test-cases-sample](link) — Kumpulan test case & bug report untuk aplikasi demo -->
 <!-- - [cypress-automation-practice](link) — Automation testing dasar menggunakan Cypress -->
 
-*(sedang membangun portofolio project QA — coming soon)*
 
 ---
 
