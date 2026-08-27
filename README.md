@@ -1,9 +1,8 @@
 # Hi, I'm Yohana Sitohang 👋
 
-**Aspiring QA / Software Tester** | SQL, API Testing, Manual & Automation Testing | ex-Intern PT Telkom Indonesia
+**SQL, API Testing, Manual & Automation Testing | ex-Intern PT Telkom Indonesia
 
-Information Technology graduate (GPA 3.86/4.00) with hands-on experience in Functional Testing, User Acceptance Testing (UAT), and SQL-based data validation gained during an internship at PT Telkom Indonesia. Currently strengthening my skills in test automation (Cypress) and API testing (Postman) to grow into a QA Automation Engineer.
-
+Information Technology graduate (GPA 3.86/4.00) with hands-on experience in Functional Testing, User Acceptance Testing (UAT), and SQL-based data validation gained during an internship at PT Telkom Indonesia. 
 ---
 
 ### 🔧 Skills
