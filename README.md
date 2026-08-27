@@ -1,8 +1,8 @@
 # Hi, I'm Yohana Sitohang 👋
 
-**SQL, API Testing, Manual & Automation Testing | ex-Intern PT Telkom Indonesia
+**Information Technology Graduate | SQL & Database | Software Testing | IT Enthusiast
 
-Information Technology graduate (GPA 3.86/4.00) with hands-on experience in Functional Testing, User Acceptance Testing (UAT), and SQL-based data validation gained during an internship at PT Telkom Indonesia. 
+Information Technology graduate (GPA 3.86/4.00) with hands-on experience in SQL, database validation, software testing, and IT projects. Interested in technology, data, and information security, with strong analytical and problem-solving skills. 
 ---
 
 ### 🔧 Skills
